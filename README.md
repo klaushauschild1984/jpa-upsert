@@ -7,6 +7,8 @@
    |_____| :: upsert ::                   v(0.0-SNAPSHOT)
 ```
 
+[![Build Status](https://app.travis-ci.com/klaushauschild1984/jpa-upsert.svg?branch=master)](https://app.travis-ci.com/klaushauschild1984/jpa-upsert)
+
 # JPA Upsert - Java Persistence API Insert/Update
 
 ## The problem
