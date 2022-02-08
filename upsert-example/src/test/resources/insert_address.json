@@ -1,0 +1,10 @@
+[
+    {
+        "operation": "INSERT",
+        "entity": "Address",
+        "header": "street ; number ; zip ; city ; country ; owner(name)",
+        "data": [
+            "Street ; Number ; Zip ; City ; Country ; Ada"
+        ]
+    }
+]

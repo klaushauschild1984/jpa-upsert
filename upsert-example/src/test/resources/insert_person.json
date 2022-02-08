@@ -1,0 +1,12 @@
+[
+    {
+        "operation": "INSERT",
+        "entity": "Person",
+        "header": "name[unique] ; age ; gender[default = DIVERSE]",
+        "data": [
+            "Ada ; 19 ; FEMALE",
+            "John ; 38 ; MALE",
+            "Alan ; 26 ; "
+        ]
+    }
+]
